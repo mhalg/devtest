@@ -4,3 +4,5 @@ echo "Hello git check1"
 echo "added row1"
 #remote update
 echo "added row2"
+#bugfix
+echo "bug_fix"
